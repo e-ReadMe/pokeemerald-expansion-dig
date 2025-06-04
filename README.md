@@ -1,6 +1,6 @@
 # about this particular fork
 
-this is my place to muck around, but also am attempting to make my own mod, with digimon. i'm just ripping off nova red. 
+this is my place to muck around, but also am attempting to make my own mod, with digimon. i'm just copying nova red. 
 
 *credits*
 emerald-expansion, obv. 
